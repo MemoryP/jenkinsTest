@@ -1,13 +1,13 @@
-package com.example.jenkinsdemo;
+package com.example.jenkinstest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JenkinsDemoApplication {
+public class JenkinsTestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JenkinsDemoApplication.class, args);
+		SpringApplication.run(JenkinsTestApplication.class, args);
 	}
 
 }
